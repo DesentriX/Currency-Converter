@@ -9,3 +9,5 @@ Convert currencies of different countries.
 - Handling exceptions and errors
 - Improved Debugging skills
 - Learning the algorithm for currency conversion
+- implement C# as the backend for the currency converter
+
