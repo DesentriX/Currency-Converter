@@ -2,8 +2,8 @@
 Convert currencies of different countries.
 
 
-#What I learned
--How to work with databases
+# What I learned
+- How to work with databases
 - Design UIs using WPF
 - Implementing Event Handling
 - Handling exceptions and errors
